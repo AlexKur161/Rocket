@@ -1,3 +1,3 @@
 Тестовое для Rocket
-1) Запустить json server командой:  json-server --watch db.json
-2)Запустить проект командой: npm run dev
+1)Cкачать пакеты npm i /
+2)Запустить проект и json server командой    npm run start
